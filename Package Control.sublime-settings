@@ -1,0 +1,35 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Color Scheme - Creamy",
+		"ColorSchemeSelector",
+		"CTags",
+		"Dayle Rees Color Schemes",
+		"Enhanced HTML and CFML",
+		"Git",
+		"Handlebars",
+		"Hipster Ipsum",
+		"HTML5",
+		"jQuery",
+		"MacTerminal",
+		"Meteor Snippets",
+		"Modific",
+		"Nodejs",
+		"PHP-Twig",
+		"Pretty JSON",
+		"RailsCasts Colour Scheme",
+		"RubyTest",
+		"Sass",
+		"SideBarEnhancements",
+		"Strapdown Markdown Preview",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"Vagrant",
+		"Xdebug Client"
+	]
+}
