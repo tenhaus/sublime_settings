@@ -33,6 +33,9 @@
 	"itg_sidebar_tree_xsmall": true,
 	"line_numbers": false,
 	"remember_open_files": false,
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+ 	"line_padding_top": 1,
 	"rulers":
 	[
 		50
